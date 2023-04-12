@@ -1,0 +1,1 @@
+Project to demonstrate knowledge of general HTML website building (Linking direct and indirect links/images, HTML boilerplate, markdown etc.) and Git usage (pushing, commiting, etc). 
